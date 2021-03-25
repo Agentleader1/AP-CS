@@ -1,4 +1,4 @@
-# AP-CS-A
+# AP-CS
 Since so many of you wanted to use my AP-CS solutions, here's my temporary repo. Read below for more info.
 
 I didn't know there were so many people interested in my AP-CS GitHub repo! Haha. This repo has all my work I've done for AP-CS, and more fun little projects!
