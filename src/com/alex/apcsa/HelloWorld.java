@@ -13,7 +13,7 @@ public class HelloWorld {
 			System.out.print(obj);
 		}
 	}
-	
+
 	public static void println(Object... objs) {
 		if (objs.length <= 0) {
 			System.out.println();
@@ -23,7 +23,7 @@ public class HelloWorld {
 			}
 		}
 	}
-	
+
 	public static void printf(boolean newLine, String format, Object... objs) {
 		System.out.printf(format, objs);
 		if (newLine)
