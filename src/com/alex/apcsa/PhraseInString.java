@@ -4,6 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 
+ * @author alex <agentleader1@gmail.com>
+ *
+ */
 public class PhraseInString {
 
 	public static void main(String[] args) throws IOException {
